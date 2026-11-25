@@ -1,0 +1,4 @@
+PyQt6>=6.5
+openai>=1.40
+sounddevice>=0.4.6
+numpy>=1.24
